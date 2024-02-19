@@ -13,15 +13,18 @@ https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/e
 Experience web browsing like never before with our Custom Cursor project! Transform your cursor into a dynamic and visually appealing element, adding flair and personality to your website interactions. ✨
 
 ## Insta Love Button
-![Insta Love Button SVG](instalovebtn.svg)
+https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/f53be891-5435-4123-b422-cc1d02bb0566
+
 Spread love and positivity with the Insta Love Button! Engage your audience and encourage interaction with this delightful button inspired by social media platforms. ❤️
 
 ## Insta Story Feature
-![Insta Story Feature SVG](instastoryfeature.svg)
+https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/c71e8cd3-b653-49bc-b00e-3383d3a056b2
+
 Capture and share your moments with the Insta Story Feature! Immerse yourself in a visually stunning storytelling experience, reminiscent of popular social media platforms. 📸
 
 ## Multiple Image Hovering Animation
-![Multiple Image Hovering Animation SVG](multipleimagehovering.svg)
+https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/7422f2dc-bbfa-461b-a95a-85d5d6f66ca6
+
 Bring your images to life with captivating hover animations! Elevate your website's visual appeal and engage your audience with mesmerizing effects that breathe life into your images. 🖼️
 
 👉 https://codepen.io/collection/RzvBeK
