@@ -3,7 +3,6 @@
 Welcome to the JavaScript Amazing Projects repository! Prepare to be dazzled by an array of innovative and captivating JavaScript projects that push the boundaries of web development. Each project is crafted with creativity and expertise to deliver unique and engaging experiences. Let's dive into the extraordinary features waiting for you:
 
 ## AddFriend Feature With Same Button
-https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/5be112db-a95a-4a55-84b5-bbd2d3dc8457
 ![AddFriend SVG](addfriend.svg)
 
 Elevate your social networking experience with the AddFriend feature! Seamlessly connect with friends using a single button, streamlining your interactions and fostering stronger connections online. 💬
