@@ -3,12 +3,13 @@
 Welcome to the JavaScript Amazing Projects repository! Prepare to be dazzled by an array of innovative and captivating JavaScript projects that push the boundaries of web development. Each project is crafted with creativity and expertise to deliver unique and engaging experiences. Let's dive into the extraordinary features waiting for you:
 
 ## AddFriend Feature With Same Button
-![AddFriend SVG](addfriend.svg)
+https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/019ebd15-d3f3-4dd8-af2c-0aba0521c801
 
 Elevate your social networking experience with the AddFriend feature! Seamlessly connect with friends using a single button, streamlining your interactions and fostering stronger connections online. 💬
 
 ## Custom Cursor
-![Custom Cursor SVG](customcursor.svg)
+https://github.com/Jayeshpatil9869/Javascript-Amazing-Projects/assets/97843592/e2dfe6ea-78e0-48d3-8c7f-2db3a25cf179
+
 Experience web browsing like never before with our Custom Cursor project! Transform your cursor into a dynamic and visually appealing element, adding flair and personality to your website interactions. ✨
 
 ## Insta Love Button
